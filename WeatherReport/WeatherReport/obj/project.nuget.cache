@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xg6KaOdmO4+Wak7mt9g1ABpzRBAJM5n1YqW+jc/hTVdyqFHV88W7MocY1oOXo/9IYKsvbolPAGByCRgw1ZAbOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\WeatherReport\\WeatherReport\\WeatherReport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
